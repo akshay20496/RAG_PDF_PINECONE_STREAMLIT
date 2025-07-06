@@ -1,0 +1,14 @@
+langchain-cli
+langchain
+langchain-community
+langchain-google-genai
+google-generativeai
+langchain-pinecone
+pypdf
+python-dotenv
+speechrecognition 
+pydub 
+gtts 
+pyaudio
+deep-translator
+streamlit
